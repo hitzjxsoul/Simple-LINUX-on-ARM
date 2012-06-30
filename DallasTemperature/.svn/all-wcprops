@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/repos/arduino/!svn/ver/18/DS18B20
+END
+DallasTemperature.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/arduino/!svn/ver/20/DS18B20/DallasTemperature.cpp
+END
+S20Series.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/arduino/!svn/ver/20/DS18B20/S20Series.cpp
+END
+BSeries.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/arduino/!svn/ver/20/DS18B20/BSeries.h
+END
+NewOneWire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/arduino/!svn/ver/20/DS18B20/NewOneWire.cpp
+END
+DallasTemperature.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/arduino/!svn/ver/20/DS18B20/DallasTemperature.h
+END
+S20Series.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/arduino/!svn/ver/20/DS18B20/S20Series.h
+END
+NewOneWire.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/arduino/!svn/ver/20/DS18B20/NewOneWire.h
+END
+OneWire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/arduino/!svn/ver/19/DS18B20/OneWire.cpp
+END
+StratBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/arduino/!svn/ver/20/DS18B20/StratBase.cpp
+END
+BSeries.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/arduino/!svn/ver/20/DS18B20/BSeries.cpp
+END
+OneWire.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/arduino/!svn/ver/19/DS18B20/OneWire.h
+END
+StratBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/arduino/!svn/ver/20/DS18B20/StratBase.h
+END
